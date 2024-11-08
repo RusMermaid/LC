@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lambda_Calculus_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ed634d23b293a9fbd9ad73962bcb03a66ef32d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lambda_Calculus_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lambda_Calculus_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

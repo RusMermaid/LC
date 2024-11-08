@@ -17,3 +17,4 @@
 /Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/obj/Debug/net6.0/ref/Lambda_Calculus_App.dll
 /Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/bin/Debug/net6.0/Sprache.dll
 /Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/obj/Debug/net6.0/Lambda_C.7E3FBC7E.Up2Date
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/obj/Debug/net6.0/Lambda_Calculus_App.sourcelink.json

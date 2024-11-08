@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdc7e3d6-06e3-4112-a0c2-8466d0045ec6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/ref/Lambda_Calculus_Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/ref/Lambda_Calculus_Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/refint/Lambda_Calculus_Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/Debug/net6.0/refint/Lambda_Calculus_Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_Calculus_Lib/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2oZbNZbHYwDv7G46yHocbGSzobk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc7e3d6-06e3-4112-a0c2-8466d0045ec6" name="Changes" comment="" />
+      <created>1731080005831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731080005831</updated>
+      <workItem from="1731080006967" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
