@@ -1,6 +1,6 @@
 ﻿using LambdaAnaliz.LambdaSyntaxTree;
 
-namespace Ural_CS_Rider;
+namespace LambdaAnaliz;
 
 internal class MainClass
 {
