@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Sprache/3.0.0-develop-00049": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Sprache.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Sprache.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sprache/3.0.0-develop-00049": {
+      "sha512": "72DtoKmqHsycgSAXQFaUVhndOasHOIVxmmNnUvDaF/BxhBpDu5YPnlHG4cFG37sVJeF11pZ0D7UwwG7bOHS5mA==",
+      "type": "package",
+      "path": "sprache/3.0.0-develop-00049",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net5.0/Sprache.dll",
+        "lib/net5.0/Sprache.xml",
+        "lib/netstandard2.0/Sprache.dll",
+        "lib/netstandard2.0/Sprache.xml",
+        "lib/netstandard2.1/Sprache.dll",
+        "lib/netstandard2.1/Sprache.xml",
+        "sprache.3.0.0-develop-00049.nupkg.sha512",
+        "sprache.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Sprache >= 3.0.0-develop-00049"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rus_mermaid/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/Lambda_Calculus_App.csproj",
+      "projectName": "Lambda_Calculus_App",
+      "projectPath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/Lambda_Calculus_App.csproj",
+      "packagesPath": "/Users/rus_mermaid/.nuget/packages/",
+      "outputPath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_App/Lambda_Calculus_App/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rus_mermaid/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Sprache": {
+            "target": "Package",
+            "version": "[3.0.0-develop-00049, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

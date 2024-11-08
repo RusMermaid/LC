@@ -1,0 +1,12 @@
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.deps.json
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/bin/Debug/net6.0/Lambda_Calculus_Lib.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.AssemblyReference.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.AssemblyInfoInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.AssemblyInfo.cs
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.csproj.CoreCompileInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/refint/Lambda_Calculus_Lib.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/Lambda_Calculus_Lib.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/obj/Debug/net6.0/ref/Lambda_Calculus_Lib.dll

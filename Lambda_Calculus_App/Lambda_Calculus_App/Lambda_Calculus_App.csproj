@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lambda_Calculus_Lib">
+      <HintPath>..\..\Lambda_Calculus_Lib\Lambda_Calculus_Lib\bin\Debug\net6.0\Lambda_Calculus_Lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sprache" Version="3.0.0-develop-00049" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7erSS7oP3Kat98RQ9v5e9LBwmouv/9HaoLIrHfC/QgcrytH6BxcGO8wW7ptcDADsFzo2fenGq8cWuvM1pChKQ==",
+  "success": true,
+  "projectFilePath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/LC/Lambda_Calculus_Lib/Lambda_Calculus_Lib/Lambda_Calculus_Lib.csproj",
+  "expectedPackageFiles": [
+    "/Users/rus_mermaid/.nuget/packages/sprache/3.0.0-develop-00049/sprache.3.0.0-develop-00049.nupkg.sha512",
+    "/Users/rus_mermaid/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rus_mermaid/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

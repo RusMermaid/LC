@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lambda_Calculus_App/1.0.0": {
+        "dependencies": {
+          "Sprache": "3.0.0-develop-00049",
+          "Lambda_Calculus_Lib": "1.0.0.0"
+        },
+        "runtime": {
+          "Lambda_Calculus_App.dll": {}
+        }
+      },
+      "Sprache/3.0.0-develop-00049": {
+        "runtime": {
+          "lib/net5.0/Sprache.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "Lambda_Calculus_Lib/1.0.0.0": {
+        "runtime": {
+          "Lambda_Calculus_Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lambda_Calculus_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sprache/3.0.0-develop-00049": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-72DtoKmqHsycgSAXQFaUVhndOasHOIVxmmNnUvDaF/BxhBpDu5YPnlHG4cFG37sVJeF11pZ0D7UwwG7bOHS5mA==",
+      "path": "sprache/3.0.0-develop-00049",
+      "hashPath": "sprache.3.0.0-develop-00049.nupkg.sha512"
+    },
+    "Lambda_Calculus_Lib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
